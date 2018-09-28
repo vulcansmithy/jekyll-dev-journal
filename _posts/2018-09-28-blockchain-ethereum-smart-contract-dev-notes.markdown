@@ -39,22 +39,28 @@ categories: Blockchain Ethereum SmartContract DevNotes
 ### Tools
 
 - [metamask.io](https://metamask.io)
-
 - [NodeJS](https://nodejs.org/en/)
-
 - [remix.ethereum.org](http://remix.ethereum.org)
-
-- [mist](https://github.com/ethereum/mist)
+- [Mist, Browse and use DApps on the Ethereum network](https://github.com/ethereum/mist)
+- [Truffle, A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM)](https://truffleframework.com)
+- [Parity, A fast and secure Ethereum client for managing accounts, tokens, and so on](https://www.parity.io/ethereum/)
 
 
 
 ### Libraries
 
 - [ethereum.rb, Ethereum library for the Ruby language](https://github.com/EthWorks/ethereum.rb)
-
+- [web3JS, Ethereum JavaScript API](https://github.com/ethereum/web3.js/)
 
 
 
 ### Resources
 
+- [*Dive into Ethereum Development. Part 3: User Application](https://medium.com/@rubyruby.ru/dive-into-ethereum-development-part-3-user-application-107f0a6e5190)
+- [*How To Build an Ethereum Smart Contract for a Blockchain Marketplace](https://rubygarage.org/blog/ethereum-smart-contract-tutorial)
+- [*Blockchain App with Ruby](https://www.nopio.com/blog/blockchain-app-ruby/)
+
 * [The Beginners Guide to Using an Ethereum Test Network](https://medium.com/compound-finance/the-beginners-guide-to-using-an-ethereum-test-network-95bbbc85fc1d)
+
+* [Tools for Working with Solidity](https://dzone.com/articles/blockwatch-tools-for-working-with-solidity)
+
