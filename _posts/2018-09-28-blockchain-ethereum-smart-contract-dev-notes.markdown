@@ -46,9 +46,15 @@ categories: Blockchain Ethereum SmartContract DevNotes
 
 - [mist](https://github.com/ethereum/mist)
 
-- 
 
 
-  ### Resources
+### Libraries
+
+- [ethereum.rb, Ethereum library for the Ruby language](https://github.com/EthWorks/ethereum.rb)
+
+
+
+
+### Resources
 
 * [The Beginners Guide to Using an Ethereum Test Network](https://medium.com/compound-finance/the-beginners-guide-to-using-an-ethereum-test-network-95bbbc85fc1d)
