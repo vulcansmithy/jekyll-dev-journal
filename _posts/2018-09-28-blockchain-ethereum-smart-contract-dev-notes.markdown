@@ -42,6 +42,10 @@ categories: Blockchain Ethereum SmartContract DevNotes
 
 - [NodeJS](https://nodejs.org/en/)
 
+- [remix.ethereum.org](http://remix.ethereum.org)
+
+- [mist](https://github.com/ethereum/mist)
+
 - 
 
 
