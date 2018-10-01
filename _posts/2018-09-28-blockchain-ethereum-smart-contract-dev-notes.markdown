@@ -19,7 +19,8 @@ categories: Blockchain Ethereum SmartContract DevNotes
 - The data is open for all the participants of the network, its reading costs nothing as, like we’ve already said before, all the participants do have the data.
 - Data is changed through transactions.
 - are code which runs (along with data which is stored) within that virtual machine, i.e. on every single node. ^[Ethereum programming for web developers: a tutorial](https://codex.happyfuncorp.com/ethereum-programming-for-web-developers-a-tutorial-9c83f35f531)^
--  anyone can submit code/data to this machine without the registering or asking permission. They do, however, need to pay. Every line of code and byte of storage in Ethereum has a price. ^[Ethereum programming for web developers: a tutorial](https://codex.happyfuncorp.com/ethereum-programming-for-web-developers-a-tutorial-9c83f35f531)^
+- anyone can submit code/data to this machine without the registering or asking permission. They do, however, need to pay. Every line of code and byte of storage in Ethereum has a price. ^[Ethereum programming for web developers: a tutorial](https://codex.happyfuncorp.com/ethereum-programming-for-web-developers-a-tutorial-9c83f35f531)^
+- ... MetaMask injects Web3.js into each opened page, which enables you to test basic commands directly in the javascript console in the Chrome Developer Tools... ^[Dive into Ethereum Development. Part 3: User Application](https://medium.com/@rubyruby.ru/dive-into-ethereum-development-part-3-user-application-107f0a6e5190)^
 
 
 
@@ -27,10 +28,6 @@ categories: Blockchain Ethereum SmartContract DevNotes
 
 - **DApp**  - decentralized application.
 - At the moment DApp is a logic on smart contracts plus some user interface.
-
-
-
-
 
 - In order to perform any operations on blockchain, you need internal currency*
 
@@ -51,7 +48,14 @@ categories: Blockchain Ethereum SmartContract DevNotes
 
 - [ethereum.rb, Ethereum library for the Ruby language](https://github.com/EthWorks/ethereum.rb)
 - [web3JS, Ethereum JavaScript API](https://github.com/ethereum/web3.js/)
+- [web3JS JavaScript app API for 0.2.x.x ](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+- [web3JS JavaScript app API for 1.0 release](https://web3js.readthedocs.io/en/1.0/index.html)
 
+
+
+### Ethereum Test Ether Faucet
+
+- [Ropsten Test Network Faucet](https://faucet.metamask.io/)
 
 
 ### Resources
