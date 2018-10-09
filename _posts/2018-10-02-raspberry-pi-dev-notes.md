@@ -45,16 +45,31 @@ $> rails new <rails app name> --api --skip-action-cable --skip-active-storage
 
 ### Notable Articles
 - [How to Install Ruby on Rails on Raspberry Pi 3`](https://parsun.com/2017/09/23/how-to-install-ruby-on-rails-on-raspberry-pi-3/)
+
 - [Fixing Rails 5.2 Bus Error on ARMv7/Raspberry Pi](https://romkey.com/2018/05/14/fixing-rails-5-2-bus-error-on-armv7-raspberry-pi/)
+
 - [REST Service For The Udoo Neo Gpios and Sensors](https://www.udoo.org/rest-service-for-the-udoo-neo-gpios-and-sensors/)
+
 - REST service for the UDOO NEO GPIO's and sensors. [GitHub, marksull/udooneorest](https://github.com/marksull/udooneorest)
+
 - [How to Clone Raspberry Pi SD Cards Using the Command Line in OS X](https://computers.tutsplus.com/articles/how-to-clone-raspberry-pi-sd-cards-using-the-command-line-in-os-x--mac-59911)
+
 - [artoo.io, Next generation robotic framework](http://artoo.io/)
+
 - [artoo connecting to Raspberry Pi through artoo-raspi gem](http://artoo.io/documentation/platforms/raspberry-pi/)
+
 - [Evented GPIO on Raspberry PI with Ruby](https://tenderlovemaking.com/2017/01/17/evented-gpio-on-raspberry-pi-with-ruby.html)
+
 - [Calling C/C++ from Ruby](https://www.amberbit.com/blog/2014/6/12/calling-c-cpp-from-ruby/)
+
 - [Stackoverflow, How do I install crystal-lang on rapsberry pi?](https://stackoverflow.com/questions/42796143/how-do-i-install-crystal-lang-on-rapsberry-pi/42796648#42796648)
+
 - [Install Crystal on Raspbian](http://public.portalier.com/raspbian/)
+
+- [The easy way to set up Docker on a Raspberry Pi](https://medium.freecodecamp.org/the-easy-way-to-set-up-docker-on-a-raspberry-pi-7d24ced073ef)
+
+- [Docker comes to Raspberry Pi](https://www.raspberrypi.org/blog/docker-comes-to-raspberry-pi/)
+
 
 
 ### Ruby Gems and libraries
