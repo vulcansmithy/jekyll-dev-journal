@@ -60,8 +60,8 @@ categories: article researchnotes
 
 #### Stellar Smart Contracts
 
-- *****[First impressions at creating Stellar Smart Contracts](https://medium.com/coinmonks/first-impressions-at-creating-stellar-smart-contracts-d51f18552bbc) and [Simple Escrow Contract using Stellar](https://medium.com/coinmonks/simple-escrow-contract-using-stellar-67aa799f7db)
-- *****[I Just Wrote a Stellar Smart Contract](https://medium.com/@robdurst/i-just-wrote-a-stellar-smart-contract-7f54a391f5e1) and [I Just Wrote a Stellar Smart Contract Pt. 2: Let’s Dig a Little Deeper](https://hackernoon.com/i-just-wrote-a-stellar-smart-contract-pt-2-lets-dive-a-little-deeper-a8dae19b9d0a)
+- ***** [First impressions at creating Stellar Smart Contracts](https://medium.com/coinmonks/first-impressions-at-creating-stellar-smart-contracts-d51f18552bbc) and [Simple Escrow Contract using Stellar](https://medium.com/coinmonks/simple-escrow-contract-using-stellar-67aa799f7db)
+- ***** [I Just Wrote a Stellar Smart Contract](https://medium.com/@robdurst/i-just-wrote-a-stellar-smart-contract-7f54a391f5e1) and [I Just Wrote a Stellar Smart Contract Pt. 2: Let’s Dig a Little Deeper](https://hackernoon.com/i-just-wrote-a-stellar-smart-contract-pt-2-lets-dive-a-little-deeper-a8dae19b9d0a)
 
 
 
